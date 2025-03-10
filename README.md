@@ -25,6 +25,14 @@ The app is deployed on Streamlit Cloud and can be accessed here: [Medicinal Harm
 - **Harmonic Resonance**: Identifies synergistic combinations across medical traditions
 - **Intuitive UI**: User-friendly interface with explanations and tooltips
 
+### New Features
+
+- **Compound Combination Analyzer**: Test multiple compounds together to discover synergistic effects
+- **Interactive Visualizations**: Dynamic charts for visualizing synergy, efficacy progression, and interactions
+- **Validation Tools**: Literature-based validation with confidence scoring and experiment suggestions
+- **Enhanced Prediction Interface**: More user-friendly sliders and comprehensive visual feedback
+- **Safety Profiles**: Detailed safety assessments for compound combinations
+
 ## Local Development
 
 ### Prerequisites

@@ -1,6 +1,13 @@
 """
 Launcher for the Medicinal Harmonic Resonance AI application on Streamlit Cloud.
 This file imports and runs the main application.
+
+Features:
+- Single compound efficacy prediction
+- Multi-compound synergy analysis
+- Cross-system integration visualization
+- Validation metrics with literature support
+- Interactive visualizations
 """
 import os
 import sys
