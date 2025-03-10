@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Uranium Nitricum",
+    "source": "Uranium nitrate",
+    "potencies": [
+      "6X",
+      "12X",
+      "30C",
+      "200C"
+    ],
+    "preparation_method": "Trituration followed by dilution",
+    "mental_symptoms": [
+      "Irritability",
+      "Depression with digestive complaints"
+    ],
+    "physical_symptoms": [
+      "Diabetes with emaciation and weakness",
+      "Excessive urination",
+      "Severe thirst",
+      "Nephritis and albuminuria"
+    ],
+    "modalities": {
+      "better": [
+        "Rest"
+      ],
+      "worse": [
+        "Motion",
+        "Cold",
+        "Early morning"
+      ]
+    },
+    "traditional_uses": "Diabetes mellitus, Nephritis, Albuminuria"
+  },
+  {
+    "name": "Syzygium Jambolanum",
+    "source": "Black plum seed",
+    "potencies": [
+      "3X",
+      "6X",
+      "30C"
+    ],
+    "preparation_method": "Tincture of the seeds",
+    "mental_symptoms": [
+      "Weakness with specific urinary symptoms"
+    ],
+    "physical_symptoms": [
+      "Excessive urination with high specific gravity",
+      "Sugar in urine",
+      "Great thirst",
+      "Weakness and emaciation"
+    ],
+    "modalities": {
+      "better": [
+        "Moderate temperature"
+      ],
+      "worse": [
+        "After eating carbohydrates"
+      ]
+    },
+    "traditional_uses": "Diabetes mellitus, Glycosuria"
+  }
+]

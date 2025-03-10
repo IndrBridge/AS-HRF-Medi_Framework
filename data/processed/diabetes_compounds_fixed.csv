@@ -1,0 +1,10 @@
+name,system,for_diabetes,active_compounds_count,has_blood_sugar_effect,is_bitter,is_cooling,reduces_kapha,half_life_hours,bioavailability,is_hot,reduces_phlegm,has_thirst_symptom,has_urination_symptom,system_frequency,efficacy_amplitude,phase_alignment,resonance_potential
+Gymnema Sylvestre,ayurvedic,True,3,False,True,True,True,0.0,0.0,0,0,0,0,0.33,0.8156338677563799,0.2915079171419551,0.4444044054351354
+Curcuma Longa,ayurvedic,True,3,False,True,False,True,0.0,0.0,0,0,0,0,0.33,0.7825223879726881,0.15705878530192208,0.31879386808342
+Momordica Charantia,ayurvedic,True,4,False,True,True,True,0.0,0.0,0,0,0,0,0.33,0.8280281339339439,0.4488704784840187,0.6133953447091001
+Metformin,allopathic,True,1,True,0,0,0,6.2,0.5,0,0,0,0,0.67,0.8520409156502791,0.6456023790210177,0.3610164951332808
+Sitagliptin,allopathic,True,1,False,0,0,0,12.4,0.87,0,0,0,0,0.67,0.8576621404572942,0.21899386194471354,0.3879261963559417
+Fenugreek,unani,True,3,False,0,0,0,0.0,0.0,True,True,0,0,0.5,0.8906943751407416,0.19096185518831083,0.5585508930669534
+Black Seed,unani,True,3,False,0,0,0,0.0,0.0,True,True,0,0,0.5,0.8782164663629739,0.3486260986980604,0.5522455695548072
+Uranium Nitricum,homeopathic,True,0,False,0,0,0,0.0,0.0,0,0,True,True,0.25,0.7646423178361983,0.4851760430755442,0.22525268877182658
+Syzygium Jambolanum,homeopathic,True,0,False,0,0,0,0.0,0.0,0,0,True,True,0.25,0.7778944623020871,0.15227261169879647,0.0213957579958012

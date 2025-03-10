@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Gymnema Sylvestre",
+    "sanskrit_name": "Meshashringi",
+    "common_name": "Gurmar",
+    "part_used": "Leaves",
+    "rasa": [
+      "Bitter",
+      "Astringent"
+    ],
+    "virya": "Cooling",
+    "vipaka": "Pungent",
+    "dosha_effect": {
+      "vata": 0.2,
+      "pitta": -0.4,
+      "kapha": -0.7
+    },
+    "indications": [
+      "Diabetes",
+      "Obesity",
+      "High cholesterol"
+    ],
+    "active_compounds": [
+      "Gymnemic acids",
+      "Gurmarin",
+      "Gymnemagenin"
+    ],
+    "traditional_uses": "Blood sugar regulation, Reduces sweet cravings"
+  },
+  {
+    "name": "Curcuma Longa",
+    "sanskrit_name": "Haridra",
+    "common_name": "Turmeric",
+    "part_used": "Rhizome",
+    "rasa": [
+      "Bitter",
+      "Pungent",
+      "Astringent"
+    ],
+    "virya": "Heating",
+    "vipaka": "Pungent",
+    "dosha_effect": {
+      "vata": -0.1,
+      "pitta": 0.3,
+      "kapha": -0.5
+    },
+    "indications": [
+      "Inflammation",
+      "Skin disorders",
+      "Digestive issues",
+      "Diabetes"
+    ],
+    "active_compounds": [
+      "Curcumin",
+      "Demethoxycurcumin",
+      "Bisdemethoxycurcumin"
+    ],
+    "traditional_uses": "Anti-inflammatory, Blood purifier, Digestive aid"
+  },
+  {
+    "name": "Momordica Charantia",
+    "sanskrit_name": "Karavella",
+    "common_name": "Bitter Melon",
+    "part_used": "Fruit",
+    "rasa": [
+      "Bitter"
+    ],
+    "virya": "Cooling",
+    "vipaka": "Pungent",
+    "dosha_effect": {
+      "vata": 0.3,
+      "pitta": -0.5,
+      "kapha": -0.4
+    },
+    "indications": [
+      "Diabetes",
+      "Digestive disorders",
+      "Skin infections"
+    ],
+    "active_compounds": [
+      "Charantin",
+      "Momordicin",
+      "Vicine",
+      "Polypeptide-p"
+    ],
+    "traditional_uses": "Blood sugar regulation, Digestive stimulant"
+  }
+]

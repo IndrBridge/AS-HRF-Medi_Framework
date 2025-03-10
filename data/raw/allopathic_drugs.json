@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Metformin",
+    "drug_class": "Biguanide",
+    "mechanism": "Reduces hepatic glucose production, increases insulin sensitivity",
+    "half_life_hours": 6.2,
+    "absorption_rate": 0.55,
+    "bioavailability": 0.5,
+    "primary_targets": [
+      "AMPK",
+      "Mitochondrial complex I"
+    ],
+    "side_effects": [
+      "Gastrointestinal discomfort",
+      "Lactic acidosis (rare)"
+    ],
+    "contraindications": [
+      "Renal dysfunction",
+      "Hepatic disease"
+    ],
+    "typical_dosage": "500-2000 mg daily",
+    "active_compounds": [
+      "Metformin hydrochloride"
+    ],
+    "approved_indications": [
+      "Type 2 diabetes",
+      "Insulin resistance",
+      "PCOS"
+    ]
+  },
+  {
+    "name": "Sitagliptin",
+    "drug_class": "DPP-4 inhibitor",
+    "mechanism": "Inhibits dipeptidyl peptidase-4, increasing incretin levels",
+    "half_life_hours": 12.4,
+    "absorption_rate": 0.87,
+    "bioavailability": 0.87,
+    "primary_targets": [
+      "DPP-4 enzyme"
+    ],
+    "side_effects": [
+      "Upper respiratory infection",
+      "Headache"
+    ],
+    "contraindications": [
+      "History of pancreatitis"
+    ],
+    "typical_dosage": "100 mg daily",
+    "active_compounds": [
+      "Sitagliptin phosphate"
+    ],
+    "approved_indications": [
+      "Type 2 diabetes"
+    ]
+  }
+]

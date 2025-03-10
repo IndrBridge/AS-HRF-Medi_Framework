@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Fenugreek",
+    "arabic_name": "Hulba",
+    "common_name": "Methi",
+    "part_used": "Seeds",
+    "temperament": {
+      "hot": 1,
+      "dry": 2
+    },
+    "humour_effect": {
+      "blood": 0.3,
+      "phlegm": -0.4,
+      "yellow_bile": 0.1,
+      "black_bile": -0.2
+    },
+    "indications": [
+      "Diabetes",
+      "High cholesterol",
+      "Digestive disorders"
+    ],
+    "active_compounds": [
+      "Trigonelline",
+      "4-Hydroxyisoleucine",
+      "Diosgenin"
+    ],
+    "traditional_uses": "Blood sugar regulation, Digestive aid"
+  },
+  {
+    "name": "Black Seed",
+    "arabic_name": "Habbatus Sauda",
+    "common_name": "Kalonji",
+    "part_used": "Seeds",
+    "temperament": {
+      "hot": 2,
+      "dry": 2
+    },
+    "humour_effect": {
+      "blood": 0.2,
+      "phlegm": -0.6,
+      "yellow_bile": 0.0,
+      "black_bile": -0.3
+    },
+    "indications": [
+      "Diabetes",
+      "Hypertension",
+      "Respiratory disorders"
+    ],
+    "active_compounds": [
+      "Thymoquinone",
+      "Thymohydroquinone",
+      "Nigellone"
+    ],
+    "traditional_uses": "Immune strengthening, Blood sugar balancing"
+  }
+]
